@@ -163,7 +163,7 @@ This repository aims to collect recently accepted papers on AI conferences. One 
 
 ## TODO
 
-- ![Hype Papers](https://papers.labml.ai/papers/recent/)
+- [Hype Papers](https://papers.labml.ai/papers/recent/)
 - Arxiv search 
 
 - [x] WACV
