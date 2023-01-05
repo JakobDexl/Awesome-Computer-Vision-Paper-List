@@ -166,6 +166,7 @@ This repository aims to collect recently accepted papers on AI conferences. One 
 - [Hype Papers](https://papers.labml.ai/papers/recent/)
 - Arxiv search 
 - Openreview search [aa](https://docs.openreview.net/how-to-guides/data-retrieval-and-modification/how-to-loop-through-accepted-papers-and-print-the-authors-and-their-affiliations)
+- Pubmed [aa](https://github.com/gijswobben/pymed)
 
 - [x] WACV
 - [x] BMVC
